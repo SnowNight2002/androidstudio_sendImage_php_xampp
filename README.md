@@ -1,1 +1,2 @@
-# androidstudio_sendImage_php_xampp
+# info
+it use android studio and xampp<br>
